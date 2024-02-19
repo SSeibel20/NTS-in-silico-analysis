@@ -16,7 +16,9 @@ The broad objective of this study is to conduct a detailed analysis of publicly 
 4. To detect antimicrobial resistance genes within NTS genomes and predict virulence genes.
 
 **Methods**
+
 **Data Collection**
+
 NTS data collection will involve retrieving FASTQ files for NTS isolates from Kenya from Gen bank,SRA and Refseq databases with the aid of NCBI Pathogen Isolate Browser tool. The key words “non typhoidal salmonella” and a location filter “Kenya” shall be used to get the desired data. A script will be developed to automate the download process, utilizing accession numbers obtained from the NCBI pathogen isolate browser.
 
 **Data Analysis**
