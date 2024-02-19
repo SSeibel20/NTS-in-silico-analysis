@@ -38,9 +38,9 @@ We will construct phylogenetic trees utilizing FastTree 2 tool to infer the evol
 **Identification of AMR and Virulence genes**
 We will use the Staramr tool to identify antimicrobial resistance genes within NTS genomes. Abricate tool shall be used in identifying virulence factors associated with the NTS genomes against the Virulence Factors Database.
 
+**WORKFLOW**
+![image](https://github.com/GMlevel/NTS-in-silico-analysis/assets/120181260/8084f42a-efdb-4710-8061-5b71943a740b)
+
 # NTS-in-silico-analysis
 Repo for secondary analysis of Non Typhi Salmonella genomes from Kenya
  shall be performed using Roary software and MALT for multi sequence alignment. The core genome alignment produced from this analysis shall be used to generate phylogenetic trees.
-
-**WORKFLOW**
-![image](https://github.com/GMlevel/NTS-in-silico-analysis/assets/120181260/8084f42a-efdb-4710-8061-5b71943a740b)
