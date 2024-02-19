@@ -1,6 +1,7 @@
 **IN SILICO ANALYSIS OF VIRULENCE AND ANTIMICROBIAL RESISTANCE ASSOCIATED GENES IN GENOMES OF NONTYPHOIDAL SALMONELLA ISOLATES FROM KENYA**
 
 **Background**
+
 Non-typhoidal Salmonella causes 93.8 million cases worldwide each year, resulting in 155,000 deaths whereby foodborne transmission is responsible for 85% of these cases. Annually, there are around 3.4 million invasive infections, leading to 681,000 deaths, primarily impacting the young and elderly populations in Africa. In Kenya, Salmonella typhimurium and Salmonella enteritidis are prevalent, with incidence rates ranging from 166 to 625 cases per 100,000 individuals each year and mortality rates are high (20–25%) unless immediate treatment is provided. The economic impact is substantial, with the poultry industry alone experiencing losses exceeding US$456 million annually. Each case of antimicrobial-resistant non-typhoidal Salmonella (NTS) infection carries an estimated economic burden of USD 10 million due to premature death, contributing to an overall societal burden of USD 50 billion each year.
 To identify antimicrobial resistance genes and virulence-associated genetic elements in NTS, we propose to conduct an in silico analysis of NTS genomes from Kenya. This analysis will provide insights into the transmission dynamics between animals, humans, and the environment(One Health).
 
