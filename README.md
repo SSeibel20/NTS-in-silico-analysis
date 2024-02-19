@@ -30,7 +30,7 @@ NTS data collection will involve retrieving FASTQ files for NTS isolates from Ke
  Following this, we will conduct genome annotation using Prokka annotation pipeline to predict coding sequences, non-coding RNAs, and other genomic features.
 
 **Pan genomic analysis**
- This analysis will allow us to identify core genes shared among all strains and accessory genes unique to specific strains. This analysis
+ This analysis will allow us to identify core genes shared among all strains and accessory genes unique to specific strains. This analysis shall be performed using Roary software and MALT for multi sequence alignment. The core genome alignment produced from this analysis shall be used to generate phylogenetic trees
 
 **Phylogenetic analysis**
 We will construct phylogenetic trees utilizing FastTree 2 tool to infer the evolutionary relationships among the NTS isolates based on core genome from the pan genome analysis.
@@ -43,4 +43,3 @@ We will use the Staramr tool to identify antimicrobial resistance genes within N
 
 # NTS-in-silico-analysis
 Repo for secondary analysis of Non Typhi Salmonella genomes from Kenya
- shall be performed using Roary software and MALT for multi sequence alignment. The core genome alignment produced from this analysis shall be used to generate phylogenetic trees.
