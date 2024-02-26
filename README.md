@@ -19,7 +19,7 @@ The broad objective of this study is to conduct a detailed analysis of publicly 
 
 **Data Collection**
 
-NTS data collection will involve retrieving FASTQ files for NTS isolates from Kenya from Gen bank,SRA and Refseq databases with the aid of NCBI Pathogen Isolate Browser tool. The key words “non typhoidal salmonella” and a location filter “Kenya” shall be used to get the desired data. A script will be developed to automate the download process, utilizing accession numbers obtained from the NCBI pathogen isolate browser.
+NTS data collection will involve retrieving FASTQ files for NTS isolates from Kenya from Gen bank,SRA and Refseq databases with the aid of NCBI Pathogen Isolate Browser tool. Filtering shall be used to get the desired data. First, the "Organism group" filter will be used to select only isolates of "Salmonella enterica". Then, the "Location" selection will be used to choose only Salmonella enterica isolates found in "Kenya". Finally, the "Serovar" section will select all salmonella serovars with the exception of Salmonella's typhi and paratyphi to maintain only Non-Typhoidal Salmonella. A script will be developed to automate the download process, utilizing accession numbers obtained from the NCBI pathogen isolate browser.
 
 **Data Analysis**
 
